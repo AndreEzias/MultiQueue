@@ -4,13 +4,13 @@
     "license": "license",
     "authors": [
         {
-            "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "André Ezías",
+            "email": "andre.ezias@hotmail.com",
+            "homepage": "https://github.com/AndreEzias"
         }
     ],
-    "homepage": "https://github.com/ezias/multiqueue",
-    "keywords": ["Laravel", "MultiQueue"],
+    "homepage": "https://github.com/AndreEzias/MultiQueue",
+    "keywords": ["Laravel", "MultiQueue","Queue","Multithread"],
     "require": {
         "illuminate/support": "~5|~6|~7"
     },
